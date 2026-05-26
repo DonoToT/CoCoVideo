@@ -45,9 +45,12 @@ pip install -r requirements.txt
 Download pretrained model from: [[Google Drive]](https://drive.google.com/file/d/1RZ7EYWrdtWQp5YJzEXTgIkNm6f8hSre5/view).
 
 ### 3. Download Dataset
-*(Coming soon)*
+To access the CoCoVideo dataset, please follow the application steps below:
 
-
+1. Download the [`CoCoVideo_User_License.pdf`](./CoCoVideo_User_License.pdf) from this repository.
+2. Read the terms carefully, check the agreement box, and fill in the required information.
+3. Send the completed PDF file to the corresponding author, Prof. Ming Zeng, at [zengming@xmu.edu.cn](mailto:zengming@xmu.edu.cn). 
+4. Once your request is reviewed and approved, we will reply to your email with the dataset download link.
 
 ## Training
 
@@ -91,10 +94,6 @@ python train.py
 ```
 
 
-
-## Inference
-
-*(Coming soon)*
 
 
 ## Citation
