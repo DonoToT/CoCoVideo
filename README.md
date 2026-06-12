@@ -1,6 +1,6 @@
 # CoCoVideo
 
-**CoCoVideo: The High-Quality Commercial-Model-Based Contrastive Benchmark for AI-Generated Video Detection**
+**CoCoVideo: The High-Quality Commercial-Model-Based Contrastive Benchmark for AI-Generated Video Detection [[Paper Link]](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_CoCoVideo_The_High-Quality_Commercial-Model-Based_Contrastive_Benchmark_for_AI-Generated_Video_Detection_CVPR_2026_paper.pdf)**
 
 <p align="center">
   <img src="figs/teaser.png" width="90%">
@@ -102,9 +102,10 @@ If you find our work useful, please consider citing:
 
 ```bibtex
 @inproceedings{feng2026cocovideo,
-  title={{CoCoVideo: The High-Quality Commercial-Model-Based Contrastive Benchmark for AI-Generated Video Detection}},
+  title={CoCoVideo: The High-Quality Commercial-Model-Based Contrastive Benchmark for AI-Generated Video Detection},
   author={Feng, Huidong and Chen, Wentao and Chen, Jie and Cai, Xinqi and Ma, Ruolong and Zheng, Yinglin and Lin, Yuxin and Zeng, Ming},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11346--11356},
   year={2026}
 }
 ```
